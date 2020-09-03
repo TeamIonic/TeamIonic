@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+this is a text file tin the team ionic githubteatasfe
+=======
 this is a te
+>>>>>>> 44277296d5f48fc4c1ff900f32d3dfaf7603ed01
+=======
+this is a te
+>>>>>>> 44277296d5f48fc4c1ff900f32d3dfaf7603ed01
